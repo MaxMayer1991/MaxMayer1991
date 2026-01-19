@@ -6,7 +6,7 @@
 
 I'm a passionate **Data Engineer & Web Scraper Specialist** based in Wroclaw, Poland (originally from Ukraine). With a focus on automating data extraction and building scalable tools, I turn complex web data into actionable insights. Currently diving deep into Python ecosystems, Docker orchestration, and database automation. Let's build something awesome together!
 
-- 🌍 **Location**: Wroclaw, Poland
+- 🌍 **Location**: Kraków, Poland
 - 📫 **Email**: mplakushko@gmail.com
 - 🔗 **LinkedIn/Twitter/Portfolio**: https://www.linkedin.com/in/maksymplakushko/ 
 - 💼 **Open for**: Freelance scraping projects, data pipelines, or collaborations on open-source tools.
@@ -25,16 +25,30 @@ I'm a passionate **Data Engineer & Web Scraper Specialist** based in Wroclaw, Po
 
 Here are my standout projects — each in its own repo for easy forking and collaboration:
 
-1. **[scraper_autoria](https://github.com/MaxMayer1991/scraper_autoria)**  
-   Python-based web scraper for auto.ria.com. Extracts car listings with images, prices, and contacts. Dockerized with PostgreSQL backend, scheduled runs, and CSV exports. Anti-ban features included.  
+1. **[High-Speed Async Web Extractor](https://github.com/MaxMayer1991/scraper_autoria)**  
+   A professional-grade scraping solution designed for speed and efficiency. This project demonstrates the power of asynchronous processing to handle modern, JavaScript-heavy web applications.
+   ### Key Features:
+   * **Async Engine:** Powered by Scrapy-Playwright for non-blocking I/O operations.
+   * **Modern JS Handling:** Seamlessly renders dynamic content that traditional scrapers miss.
+   * **Robust Infrastructure:** Integrated Docker support for easy deployment and Proxy rotation to ensure high availability.
+   * **Optimized Performance:** Fine-tuned concurrency settings for maximum data throughput.
    - ⭐ Stars: 0 (let's boost it!)  
    - 🛡️ License: MIT  
    - 🔑 Tech: Scrapy, Playwright, Docker, APScheduler  
 
-2. **[Project2-Name](https://github.com/MaxMayer1991/Project2-Name)**  
-   (Add your next extracted project here, e.g., a Java app from your old folders. Describe briefly: purpose, tech, achievements.)
+3. **[Robust Data Orchestration Pipeline](https://github.com/MaxMayer1991/robust-scraping-orchestrator)**  
 
-3. **[Project3-Name](https://github.com/MaxMayer1991/Project3-Name)**  
+   [cite_start]A comprehensive data extraction and storage system built for reliability and long-term monitoring of automotive market trends[cite: 3].
+
+   ### Architectural Highlights:
+   * [cite_start]**Hybrid Approach:** Combines Scrapy's efficiency with Selenium's ability to mimic real human behavior[cite: 14, 17].
+   * **Advanced Resource Management:** Custom Driver Pool and Proxy Rotation middleware to bypass sophisticated anti-bot systems.
+   * [cite_start]**Data Persistence:** Fully automated PostgreSQL integration with duplicate prevention logic[cite: 6, 7].
+   * [cite_start]**Automation & DevOps:** * Scheduled execution and daily database dumps via APScheduler[cite: 4, 8].
+   * [cite_start]Containerized environment using Docker-compose for seamless "one-command" setup[cite: 13].
+   * [cite_start]**Data Schema:** Tracks comprehensive car attributes, including VIN, odometer readings, and contact information[cite: 18, 22, 24, 28].
+
+4. **[Project3-Name](https://github.com/MaxMayer1991/Project3-Name)**  
    (Extract and describe another one, e.g., a data analysis script.)
 
 ## 📈 Contributions & Activity
