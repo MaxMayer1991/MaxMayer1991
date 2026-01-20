@@ -36,19 +36,19 @@ Here are my standout projects — each in its own repo for easy forking and coll
    - 🛡️ License: MIT  
    - 🔑 Tech: Scrapy, Playwright, Docker, APScheduler  
 
-3. **[Robust Data Orchestration Pipeline](https://github.com/MaxMayer1991/robust-scraping-orchestrator)**  
+2. **[Robust Data Orchestration Pipeline](https://github.com/MaxMayer1991/robust-scraping-orchestrator)**  
 
-   [cite_start]A comprehensive data extraction and storage system built for reliability and long-term monitoring of automotive market trends[cite: 3].
+   A comprehensive data extraction and storage system built for reliability and long-term monitoring of automotive market trends.
 
    ### Architectural Highlights:
-   * [cite_start]**Hybrid Approach:** Combines Scrapy's efficiency with Selenium's ability to mimic real human behavior[cite: 14, 17].
+   * **Hybrid Approach:** Combines Scrapy's efficiency with Selenium's ability to mimic real human behavior.
    * **Advanced Resource Management:** Custom Driver Pool and Proxy Rotation middleware to bypass sophisticated anti-bot systems.
-   * [cite_start]**Data Persistence:** Fully automated PostgreSQL integration with duplicate prevention logic[cite: 6, 7].
-   * [cite_start]**Automation & DevOps:** * Scheduled execution and daily database dumps via APScheduler[cite: 4, 8].
-   * [cite_start]Containerized environment using Docker-compose for seamless "one-command" setup[cite: 13].
-   * [cite_start]**Data Schema:** Tracks comprehensive car attributes, including VIN, odometer readings, and contact information[cite: 18, 22, 24, 28].
+   * **Data Persistence:** Fully automated PostgreSQL integration with duplicate prevention logic.
+   * **Automation & DevOps:** * Scheduled execution and daily database dumps via APScheduler.
+   * Containerized environment using Docker-compose for seamless "one-command" setup.
+   * **Data Schema:** Tracks comprehensive car attributes, including VIN, odometer readings, and contact information.
 
-4. **[Project3-Name](https://github.com/MaxMayer1991/Project3-Name)**  
+3. **[Project3-Name](https://github.com/MaxMayer1991/Project3-Name)**  
    (Extract and describe another one, e.g., a data analysis script.)
 
 ## 📈 Contributions & Activity
