@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/MaxMayer1991?style=social)](https://github.com/MaxMayer1991?tab=stars)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MaxMayer1991.MaxMayer1991)
 
-I'm a passionate **Data Engineer & Web Scraper Specialist** based in Wroclaw, Poland (originally from Ukraine). With a focus on automating data extraction and building scalable tools, I turn complex web data into actionable insights. Currently diving deep into Python ecosystems, Docker orchestration, and database automation. Let's build something awesome together!
+I'm a passionate **Data Engineer & Web Scraper Specialist** based in Cracow, Poland (originally from Ukraine). With a focus on automating data extraction and building scalable tools, I turn complex web data into actionable insights. Currently diving deep into Python ecosystems, Docker orchestration, and database automation. Let's build something awesome together!
 
 - 🌍 **Location**: Kraków, Poland
 - 📫 **Email**: mplakushko@gmail.com
